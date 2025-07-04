@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 Hi there
+I’m a passionate **Programming Instructor** with experience in:
 
-<!--
-**yoichi-muraoka/yoichi-muraoka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Vocational training**, **new-hire onboarding**, and teaching at **technical colleges**  
+- Designing curricula, creating teaching materials, and delivering hands-on lectures  
+- Main languages & frameworks: **Java (Spring)** · **JavaScript (React)**
 
-Here are some ideas to get you started:
+Before diving into code, I worked as an **Animator**—both hand-drawn and 3DCG—bringing characters to life on screen.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🥰 What I Love: 🏓 Table tennis · ✈️ Traveling · 📸 Photography
+
+🌐 My WebPage: [villhill.net](https://villhill.net)  
+
+---
+
+## 🌱 Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=html,css,js,ts,react,java,spring" />
+
+## 🏃‍♀️ Activities
+<div align="left"> 
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=yoichi-muraoka&theme=vue-light&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoichi-muraoka&theme=vue-light&layout=compact" />
+</div>
