@@ -14,7 +14,7 @@ Before diving into code, I worked as an **Animator**—both hand-drawn and 3DCG�
 ---
 
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=html,css,js,ts,react,java,spring" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=java,spring,php,html,css,sass,js,ts,react" />
 
 ## 🏃‍♀️ Activities
 <div align="left"> 
